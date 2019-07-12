@@ -9,5 +9,7 @@ namespace testING
     class Class1
     {
         //test
+        //test2
+
     }
 }
