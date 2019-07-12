@@ -8,5 +8,6 @@ namespace testING
 {
     class Class1
     {
+        //test
     }
 }
